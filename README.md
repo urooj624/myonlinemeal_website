@@ -31,7 +31,7 @@ It is a beginner-friendly demo of a food ordering website that includes navigati
 
 ## 📷 Preview  
 **Home**
-![Website Screenshot](first.png) 
+![Website Screenshot](first1.png) 
 
 **Our Services & Our Clients**
 ![Website Screenshot](image.png)  
