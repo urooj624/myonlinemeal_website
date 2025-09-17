@@ -30,8 +30,7 @@ It is a beginner-friendly demo of a food ordering website that includes navigati
 - **CSS3**  
 
 ## 📷 Preview  
-![Website Screenshot](screenshot.png)  
-*(Add your project screenshot here)*  
+![Website Screenshot](img.png)  
 
 ## 🚀 How to Use  
 1. Clone or download the repository  
